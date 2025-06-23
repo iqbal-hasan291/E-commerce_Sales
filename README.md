@@ -52,7 +52,7 @@ https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 
 ## 🛠️ Tools & Technologies
 
-![](
+![](https://github.com/iqbal-hasan291/E-commerce_Sales/blob/9cae9b42e7692a63e6d38d487e3adaedf44086e0/image/%F0%9F%9B%92%20E-Commerce%20Sales%20Analysis%20using%20Python%20%26%20SQL%20-%20visual%20selection%20(2).png)
 
 ---
 
