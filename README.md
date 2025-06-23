@@ -21,7 +21,7 @@ This analysis focuses on understanding customer behavior, sales performance, pro
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 ### 🔹 Basic Analysis
 - ✅ Found **4119 unique cities** with active customers
@@ -45,21 +45,18 @@ This analysis focuses on understanding customer behavior, sales performance, pro
 
 ---
 
-## 📊 Dataset Link
+##  Dataset Link
 https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **MySQL** (SQL Queries, Joins, Window Functions, CTE , Subquery)
-- **Jupyter Notebook**
-- **MySQL Connector**
+![](
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Connected Python to MySQL database using `mysql.connector`
 2. Created and executed SQL queries for various business questions
@@ -92,5 +89,5 @@ This project demonstrates how SQL + Python can be used effectively for business 
 ---
 
 **Md Iqbal Hossain**  
-📧 [Your Email]  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)
+📧 [iqbalmath.291@gmail.com]  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 
