@@ -1,6 +1,8 @@
 
 # 🛒 E-Commerce Sales Analysis using Python & SQL
 
+![](https://github.com/iqbal-hasan291/E-commerce_Sales/blob/1c93c6ba0413ffd5010660c9b174cf7f7daa2c0a/image/e-commerce-img.webp)
+
 This project explores and analyzes a real-world e-commerce database using SQL queries integrated with Python (Pandas, MySQL Connector). The aim is to extract key business insights that can help stakeholders make data-driven decisions.
 
 ---
