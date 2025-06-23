@@ -12,6 +12,11 @@ This project explores and analyzes a real-world e-commerce database using SQL qu
 This analysis focuses on understanding customer behavior, sales performance, product trends, and seller contribution in an e-commerce platform. The project is divided into **Basic**, **Intermediate**, and **Advanced** SQL queries to cover a wide spectrum of insights.
 
 ---
+##  Project Workflow
+
+![](https://github.com/iqbal-hasan291/E-commerce_Sales/blob/586fdacc8a9459088cd70fa464ce05cec429a8c9/image/%F0%9F%9B%92%20E-Commerce%20Sales%20Analysis%20using%20Python%20%26%20SQL%20-%20visual%20selection.png)
+
+---
 
 ##  Objectives
 
@@ -58,17 +63,6 @@ https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 
 ---
 
-##  Project Workflow
-
-1. Connected Python to MySQL database using `mysql.connector`
-2. Created and executed SQL queries for various business questions
-3. Fetched query results and analyzed them using pandas
-4. Visualized insights with Matplotlib and Seaborn
-5. Summarized key findings and structured insights for business interpretation
-
----
-
----
 
 ##  Business Questions Answered
 
